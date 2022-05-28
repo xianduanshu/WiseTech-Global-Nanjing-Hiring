@@ -10,7 +10,7 @@
 - 创始人是软件工程师出身，公司具有浓厚的工程师文化
 - 国际化的工作环境，需要与澳大利亚软件工程师紧密合作
 - 不存在年龄、学历、性别歧视
-- 开发配置：笔记本Dell工作站 i9-CPU + 64G内存，两台43寸的4K显示器
+- 开发配置：笔记本Dell工作站 i9-CPU + 64GB内存 + 2TB固态，两台43寸的4K显示器
 
 岗位如下：  
 [.Net Software Engineer](https://www.zhipin.com/job_detail/9eb0336996a5c2741nx82dm_FVJZ.html?securityId=FiGHPVo6wxGdX-E1V9p7W0xhT-OGOIj_QDKKSd7oLywtWM8Tn0yPmAE3ECmaknZ5wi7kqsNrCblmiQQVDgz2Ji4eGJd8fSijUHgL0mNlgWkK)  
