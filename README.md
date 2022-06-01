@@ -21,4 +21,4 @@
 [WiseTech Global | Glassdoor](https://www.glassdoor.com/Overview/Working-at-WiseTech-Global-EI_IE658123.11,26.htm)  
 [WiseTech Global | Linkedin](https://www.linkedin.com/company/wisetech)
 
-### 社招+校招，大量HC open，可接受其他语言转.Net
+### 社招/校招/实习，大量HC open，可接受其他语言转.Net
