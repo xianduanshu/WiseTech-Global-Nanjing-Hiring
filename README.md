@@ -1,5 +1,6 @@
 # [WiseTech Global](https://www.wisetechglobal.com) 南京Office招人
 
+
 ### 公司
 * 中文名「慧咨环球」，澳交所上市（股票代码：WTC），百亿美元市值
 * 南京元通CBD，华采天地顶级写字楼
@@ -23,7 +24,7 @@
 ### 配置
 * Dell Precision 5570，i9-CPU，64GB内存，2TB固态
 * 两台43寸的4K显示器
-* 进口定制升降桌、人体工学椅
+* 进口定制升降桌，人体工学椅
 
 
 ### 岗位  
