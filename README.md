@@ -3,6 +3,8 @@
 
 ### 公司
 * 中文名「慧咨环球」，澳交所上市（股票代码：WTC），百亿美元市值
+* 超过18000家物流公司使用我们的软件解决方案，其中包括24家全球前25强的货运代理，以及42家全球前50强的第三方物流提供商
+* 拥有超过25年的历史，以打造突破性的产品为使命，通过科技和创新重塑全球供应链
 * 全球共33个产品研发中心，可Transfer总部澳大利亚
 * 南京元通CBD，华采天地顶级写字楼
 * 员工股权激励
@@ -13,12 +15,15 @@
 * 不加班，Work Life Balance
 * 不加班，Work Life Balance
 * 3天Work From Home，2天Onsite
+* Slower today, faster forever
 
 
 ### 团队
 * 创始人是软件工程师出身，公司具有浓厚的工程师文化
 * 国际化的工作环境，Global Team，英文口语沟通，各国同事保持紧密合作
 * 不存在年龄、学历、性别歧视
+* Anyone can talk to anyone at any time for any reason
+* Lead others, manage yourself
 
 
 ### 配置
