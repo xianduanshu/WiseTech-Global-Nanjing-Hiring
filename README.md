@@ -33,8 +33,8 @@
 
 
 ### 岗位  
-[.Net Software Engineer](https://www.zhipin.com/job_detail/9eb0336996a5c2741nx82dm_FVJZ.html?securityId=FiGHPVo6wxGdX-E1V9p7W0xhT-OGOIj_QDKKSd7oLywtWM8Tn0yPmAE3ECmaknZ5wi7kqsNrCblmiQQVDgz2Ji4eGJd8fSijUHgL0mNlgWkK)  
 [.Net Senior Software Engineer](https://www.zhipin.com/job_detail/a06a079bdca5649a1nx82dm-GFdS.html?securityId=t7_56zztvSNmP-11R8S30rvaiLlQd4IzVASrng1djMJK0nXDasnjzjPZxLb2_4GuNtpdO5b_WQmauNnSb1hLNhrBL0utME4D2LeWN6fKfakf)  
+[.Net Software Engineer](https://www.zhipin.com/job_detail/9eb0336996a5c2741nx82dm_FVJZ.html?securityId=FiGHPVo6wxGdX-E1V9p7W0xhT-OGOIj_QDKKSd7oLywtWM8Tn0yPmAE3ECmaknZ5wi7kqsNrCblmiQQVDgz2Ji4eGJd8fSijUHgL0mNlgWkK)    
 [Python Software Engineer](https://www.zhipin.com/job_detail/61a0063e6da055231nx82d60EFJW.html?securityId=GFb0VikBrKBir-W13u5T6ALi31p_iqoRUMDuUCm-eQOHD52NEWgvtZbD74L1eJSo-a0_Oi9i0JXCO3URH3ew61rePs1WzN9un5Ow2WI19nRD)
 
 
